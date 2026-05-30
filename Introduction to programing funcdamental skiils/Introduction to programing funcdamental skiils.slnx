@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Introduction to programing funcdamental skiils/Introduction to programing funcdamental skiils.vcxproj" />
+</Solution>
